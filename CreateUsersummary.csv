@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+CreateUser - /v2/user,353,177,93,1128,80.26,13.314%,.78475,0.51,0.30,664.8
+TOTAL,353,177,93,1128,80.26,13.314%,.78475,0.51,0.30,664.8
